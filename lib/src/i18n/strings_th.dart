@@ -1,6 +1,5 @@
 part of 'date_picker_i18n.dart';
 
-/// Spanish (ES)
 class _StringsTH extends _StringsI18n {
   const _StringsTH();
 
