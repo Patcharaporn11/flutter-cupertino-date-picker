@@ -10,7 +10,7 @@ class _StringsTH extends _StringsI18n {
 
   @override
   String getDoneText() {
-    return 'คกลง';
+    return 'ตกลง';
   }
 
   @override
