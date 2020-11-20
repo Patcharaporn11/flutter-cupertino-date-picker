@@ -66,13 +66,13 @@ class _StringsTH extends _StringsI18n {
   @override
   List<String> getWeeksShort() {
     return [
-      "จันทร์",
-      "อังคาร",
-      "พุธ",
-      "พฤหัสบดี",
-      "ศุกร์",
-      "เสาร์",
-      "อาทิตย์",
+      "จ.",
+      "อ.",
+      "พ.",
+      "พฤ.",
+      "ศ.",
+      "ส.",
+      "อา.",
     ];
   }
 }
